@@ -7,27 +7,27 @@
         },
         {
             "id": 2,
-            "description": 'Item 2',
+            "description": "Item 2",
             "value": 23
         },
         {
             "id": 3,
-            "description": 'Item 3',
+            "description": "Item 3",
             "value": 11
         },
         {
             "id": 4,
-            "description": 'Item 4',
+            "description": "Item 4",
             "value": 64
         },
         {
             "id": 5,
-            "description": 'Item 5',
+            "description": "Item 5",
             "value": 30
         },
         {
             "id": 6,
-            "description": 'Item 6',
+            "description": "Item 6",
             "value": 11
         }
     ]
